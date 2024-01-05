@@ -1,1 +1,4 @@
-blog.w3cplus.com
+; <<>> DiG 9.10.6 <<>> blog.w3cplus.com + nostats + nocomments + nocmd
+;; global options: +cmd
+;blog.w3cplus.com.		IN	A
+w3cplus.com.		600	IN	SOA	dns23.hichina.com. hostmaster.hichina.com. 2023122517 3600 1200 86400 600
