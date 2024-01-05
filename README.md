@@ -5,7 +5,7 @@
 ## 图解 CSS 系列
 
 - [图解 CSS：揭开 CSS 面纱](https://github.com/airen/Talk-About-CSS/issues/1)
-
+- 2023 年开始写 CSS 会与众不同：[Part1](https://github.com/airen/Talk-About-CSS/issues/2) 和 [Part2](https://github.com/airen/Talk-About-CSS/issues/3)
 
 ## 我的作品
 
