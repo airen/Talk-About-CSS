@@ -5,6 +5,7 @@
 ## 图解 CSS 系列
 
 - [图解 CSS：揭开 CSS 面纱](https://github.com/airen/Talk-About-CSS/issues/1)
+- [图解 CSS：CSS 层叠和继承](https://github.com/airen/Talk-About-CSS/issues/5)
 
 ## 总结
 
