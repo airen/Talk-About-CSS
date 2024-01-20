@@ -7,6 +7,7 @@
 - [图解 CSS：揭开 CSS 面纱](https://github.com/airen/Talk-About-CSS/issues/1)
 - [图解 CSS：CSS 层叠和继承](https://github.com/airen/Talk-About-CSS/issues/5)
 - [图解 CSS: CSS 盒模型](https://github.com/airen/Talk-About-CSS/issues/6)
+- [图解CSS: 元素尺寸的设置](https://github.com/airen/Talk-About-CSS/issues/8)
 
 ## 总结
 
