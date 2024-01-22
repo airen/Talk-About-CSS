@@ -9,6 +9,10 @@
 - [图解 CSS: CSS 盒模型](https://github.com/airen/Talk-About-CSS/issues/6)
 - [图解CSS: 元素尺寸的设置](https://github.com/airen/Talk-About-CSS/issues/8)
 
+## 布局
+
+- [你可能不太熟知的布局技巧](https://github.com/airen/Talk-About-CSS/issues/9)
+
 ## 总结
 
 - 2023 年开始写 CSS 会与众不同：[Part1](https://github.com/airen/Talk-About-CSS/issues/2) 和 [Part2](https://github.com/airen/Talk-About-CSS/issues/3)
