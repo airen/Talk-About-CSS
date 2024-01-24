@@ -13,6 +13,10 @@
 
 - [你可能不太熟知的布局技巧](https://github.com/airen/Talk-About-CSS/issues/9)
 
+## CSS 技巧
+
+- [CSS Tips：CSS 实现文本淡化效果的不同姿势](https://github.com/airen/Talk-About-CSS/issues/10)
+
 ## 总结
 
 - 2023 年开始写 CSS 会与众不同：[Part1](https://github.com/airen/Talk-About-CSS/issues/2) 和 [Part2](https://github.com/airen/Talk-About-CSS/issues/3)
