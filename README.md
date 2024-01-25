@@ -17,6 +17,10 @@
 
 - [CSS Tips：CSS 实现文本淡化效果的不同姿势](https://github.com/airen/Talk-About-CSS/issues/10)
 
+## CSS 理论
+
+- [视觉格式化模型](https://github.com/airen/Talk-About-CSS/issues/11)
+
 ## 总结
 
 - 2023 年开始写 CSS 会与众不同：[Part1](https://github.com/airen/Talk-About-CSS/issues/2) 和 [Part2](https://github.com/airen/Talk-About-CSS/issues/3)
