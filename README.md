@@ -21,6 +21,8 @@
 ## CSS 理论
 
 - [视觉格式化模型](https://github.com/airen/Talk-About-CSS/issues/11)
+- [你真的了解 CSS 的 display 吗](https://github.com/airen/Talk-About-CSS/issues/15)
+  
 
 ## 总结
 
