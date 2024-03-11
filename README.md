@@ -22,6 +22,10 @@
 
 - [视觉格式化模型](https://github.com/airen/Talk-About-CSS/issues/11)
 - [你真的了解 CSS 的 display 吗](https://github.com/airen/Talk-About-CSS/issues/15)
+
+## CSS 新特性
+
+- [CSS 中的 ∞（无穷）你知道多少](https://github.com/airen/Talk-About-CSS/issues/16)
   
 
 ## 总结
